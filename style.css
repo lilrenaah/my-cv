@@ -8,5 +8,10 @@ body {
 
 #navigationbar {
     background-color: #B1B1B1;
-    width : 1920px;
+    margin: 0px;
+    padding-left: 20px;
+    border-style: solid;
+    border-color: #000;
+    border-width: 4px;
+    border-right: 100%;
 }
