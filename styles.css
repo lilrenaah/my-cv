@@ -1,0 +1,23 @@
+body {
+
+    background-color: #EEE;
+ }
+
+ .title {
+    background-color: #C9FDFF;
+    text-align: center;
+ }
+
+ .input {
+   margin: 5px;
+ }
+ 
+ .div-contact {
+   text-align:center;
+
+ }
+
+ #pie-pagina {
+   background-color: #C9FDFF;
+   text-align: center;
+ }
