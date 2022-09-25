@@ -1,0 +1,91 @@
+body {
+  margin: 0px;
+  background-color: #EEE;
+ }
+
+ * {
+  font-family: Helvetica, Courier, Arial;
+ }
+  .title {
+  background-color: #C9FDFF;
+  text-align: center;
+  margin: 0px;
+ }
+
+ .input {
+  margin: 5px;
+ }
+
+ #cuadro-permanente-R {
+  float: top;
+  float: right;
+  width: 78%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+
+ }
+
+ #header {
+  background-color: #D9D9D9;
+  height: 60px;
+ }
+
+ #datos-personales {
+  float: top;
+  float: left;
+  background-color: #002750;
+  color: #EAEAEA;
+  margin:20px;
+  padding:20px;
+  width: 300px;
+  height: 620px;
+ }
+
+ #experiencia-profesional {
+  margin: 20px;
+ }
+
+ #habilidades-tecnicas{
+  margin: 20px;
+ }
+
+ #intereses{
+  margin: 20px;
+ }
+ 
+ #contacto {
+  text-align:center;
+  margin: 20px;
+
+ }
+
+ #pie-pagina{
+  margin-top: 750px;
+  background-color: #444;
+  padding: 10px;
+  color: #EAEAEA;
+ }
+
+ #tabla-ht {
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #000;
+ }
+
+ #tabla-i {
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #000;
+ }
+
+ #profile-image {
+  border-style: solid;
+  border-color: #fff;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 250px;
+  height: 250px;
+ }
