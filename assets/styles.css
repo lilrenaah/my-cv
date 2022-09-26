@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  background-color: #EEE;
+  background-color: #fff;
  }
 
  * {
@@ -34,24 +34,34 @@ body {
  #datos-personales {
   float: top;
   float: left;
-  background-color: #002750;
+  background-color: #659AA6;
   color: #EAEAEA;
   margin:20px;
-  padding:20px;
+  padding: 20px;
   width: 300px;
-  height: 620px;
+  height: 650px;
+  border-radius: 20px;
  }
 
  #experiencia-profesional {
   margin: 20px;
+  padding:20px;
+  background-color: #025159;
+  border-radius: 20px;
+  color: #fff;
  }
 
  #habilidades-tecnicas{
+  background-color: #E7F2D5;
   margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
  }
 
  #intereses{
+  background-color: #C7D989;
   margin: 20px;
+  padding: 20px;
  }
  
  #contacto {
@@ -61,22 +71,18 @@ body {
  }
 
  #pie-pagina{
-  margin-top: 750px;
+  margin-top: 900px;
   background-color: #444;
   padding: 10px;
   color: #EAEAEA;
  }
 
  #tabla-ht {
-  border-style: solid;
-  border-radius: 5px;
-  border-color: #000;
+
  }
 
  #tabla-i {
-  border-style: solid;
-  border-radius: 5px;
-  border-color: #000;
+
  }
 
  #profile-image {
@@ -88,4 +94,48 @@ body {
   display: block;
   width: 250px;
   height: 250px;
+ }
+
+ #git-button {
+  margin-left: 76px;
+  margin-right: 15px;
+  background-color: #659AA6;
+  border-style: solid;
+  border-color: #659AA6;
+  border-radius: 12px;
+ }
+
+ #lin-btn {
+  margin-right: 76px;
+  margin-left: 15px;
+  background-color: #659AA6;
+  border-style: solid;
+  border-color: #659AA6;
+  border-radius: 12px;
+ }
+
+ #chile-images {
+  width: 30px;
+  height: 24px;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+ }
+
+ #name {
+  text-align: center;
+  margin: 15px;
+ }
+ 
+ .mini-image {
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+ }
+
+ .git-linkedin-img {
+  width: 40px;
+  height: 40px;
  }
